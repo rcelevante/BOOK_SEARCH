@@ -1,7 +1,7 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "MERN",
   "main": "server/server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
@@ -15,7 +15,7 @@
     "url": "git@work.github.com:arosenkranz/googlebooks-app.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rochelle R",
   "license": "ISC",
   "dependencies": {
     "if-env": "^1.0.4"
